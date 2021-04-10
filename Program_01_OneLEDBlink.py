@@ -4,6 +4,8 @@ Purpose: Turn On and Off one LED in a loop
 
 Requirements: Micropython and ESP32 board
 
+Visit www.micropythonforu.com for more projects
+
 """
 
 from machine import Pin
